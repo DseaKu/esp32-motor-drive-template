@@ -6,7 +6,6 @@ ESP32-C3 motor controller: Rust firmware (ESP-IDF) and a KiCad board design.
 
 - `firmware_esp32c3/`: Rust firmware (crate `surco`)
 - `doc/`: KiCad schematic, PCB, and PDF
-- `firmware_esp32c3/doc/Guide.md`: system notes (German)
 
 ## Build and flash
 
