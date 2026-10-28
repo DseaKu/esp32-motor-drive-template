@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ESP32-C3-SuperMini") (type "KiCad") (uri "/Users/minimop/Downloads/speaker-switcher-a1d6ea9e9f12e4f386fc843185724b4619c5ae06/hardware/KiCad_ESP32-C3-SuperMini/ESP32-C3-SuperMini.kicad_sym") (options "") (descr ""))
+)

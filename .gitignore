@@ -1,0 +1,4 @@
+.DS_Store
+**/.DS_Store
+firmware_esp32c3/.embuild/
+firmware_esp32c3/target/
